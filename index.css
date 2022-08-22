@@ -1,0 +1,172 @@
+img {
+  max-width: 100%;
+}
+.navbar-nav {
+  margin-right: 5em;
+}
+body {
+  padding-left: 6em;
+  padding-right: 6em;
+}
+.btn {
+  background-color: rgb(51, 5, 50);
+  text-align: center;
+}
+.page {
+  margin-top: 1em;
+}
+.bb {
+  background-color: rgb(244, 250, 255);
+  text-decoration-color: blue;
+}
+.para {
+  margin-top: 1em;
+  font-size: 150%;
+  padding-left: 13em;
+}
+.box {
+  float: right;
+  width: 1000px;
+  height: auto;
+  border: 2px solid rgb(16, 20, 16);
+  padding: 15px;
+}
+.dropdownButton {
+  background-color: aliceblue;
+  border: 0px;
+}
+.btn btn-primary {
+  background-color: white;
+}
+
+nav {
+  padding-left: 150px;
+}
+
+#st-box {
+  float: left;
+  width: 300px;
+  height: auto;
+}
+#nd-box {
+  float: left;
+  width: 300px;
+  height: auto;
+  margin-left: 20px;
+  margin-top: 50px;
+  padding: 5px;
+}
+#rd-box {
+  float: right;
+  width: 300px;
+  height: auto;
+  text-align: right;
+}
+.bed {
+  height: 20px;
+  width: 20px;
+}
+.cow {
+  height: 30px;
+  width: 30px;
+}
+.review {
+  margin-top: -15px;
+  padding-bottom: 180px;
+}
+.price {
+  margin-top: -20px;
+}
+.charges {
+  margin-top: -15px;
+}
+#searchbtn {
+  background-color: rgb(51, 5, 50);
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}
+/* #language{
+  text-align: right;
+} */
+.map-container-google-2 {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  padding-right: 5em;
+  position: relative;
+  height: 0;
+}
+.map-container-google-2 iframe {
+  left: 100;
+  top: 0;
+  height: 50%;
+  width: 50%;
+  position: absolute;
+}
+.line {
+  padding-left: 120px;
+  margin-top: 500px;
+  margin-left: 920px;
+}
+.hotelf {
+  margin-left: auto;
+}
+.fa-facebook {
+  background: #000000;
+  color: white;
+}
+
+.fa-twitter {
+  background: #000000;
+  color: white;
+}
+
+.fa-google {
+  background: #000000;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #000000;
+  color: white;
+}
+
+.fa-youtube {
+  background: #000000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #000000;
+  color: white;
+}
+
+.fa-pinterest {
+  background: #000000;
+  color: white;
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 50px;
+  text-align: left;
+  text-decoration: none;
+  word-spacing: 2px;
+}
+.text-reset {
+  color: blue;
+  text-decoration: inherit;
+}
+/* .checkbox {
+  margin-left: 22px;
+} */
+.links {
+  color: red;
+}
+.navbar-nav {
+  padding-right: 100px;
+}
